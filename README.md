@@ -6,9 +6,10 @@ Inicialmente, este setup estava configurado para um ambiente remoto na AWS, e os
 
 ## Estrutura do Projeto
 
-.    
-├── Jogos.sql    # Esquema da tabela `Jogos`  
-└── index.php  # Script PHP para conexão e inserção
+.
+├── README.md # Arquivo com informações sobre o repositório.  
+├── Jogos.sql # Esquema da tabela `Jogos`.  
+└── index.php # Script PHP para conexão e inserção.
 
 ## Pré-requisitos
 
